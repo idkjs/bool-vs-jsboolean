@@ -1,8 +1,8 @@
 ## Notes
 
-Added bs-platform to dev dependencies.
-Fixed Graphql version # in deps.
-Uncommented code which throws error.
+1.  Added bs-platform to dev dependencies.
+2.  Fixed Graphql version # in deps.
+3.  Uncommented code which throws error.
 
 ## Reproducing error.
 
